@@ -16,4 +16,4 @@ Any permissions requested by the app are used solely for core functionality and 
 
 ## Contact
 
-If you have any questions, contact me at: [email adresin]
+If you have any questions, contact me at: gbilgeturkapps@gmail.com
