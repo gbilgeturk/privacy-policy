@@ -1,11 +1,11 @@
 # Privacy Policy — Kafa Tabu
 
 **App name:** Kafa Tabu
-**Package name:** `com.dreamlab.kafatabu`
+**Package name:** Android `com.dreamlab.kafatabu`, iOS `com.dreamlab.kafatabu`
 **Developer:** Dreamlab
 **Contact e-mail:** gbilgeturkapps@gmail.com
 **Effective date:** 2026-05-23
-**Last updated:** 2026-05-23
+**Last updated:** 2026-10-20
 
 ---
 
@@ -254,3 +254,11 @@ Bu Gizlilik Politikası veya Uygulama'nın gizlilik uygulamaları hakkında
 sorularınız için bizimle iletişime geçebilirsiniz:
 
 **E-posta:** gbilgeturkapps@gmail.com
+
+---
+
+## iPhone (iOS)
+
+**English:** The iPhone version of Kafa Tabu follows the same rules described above: it collects no personal data, never connects to the internet and contains no ads, analytics or third-party SDKs. It reads the motion sensors (Core Motion) only to detect the "correct" and "pass" tilts; the readings are processed in memory and are never stored or sent. Game settings and the onboarding flag are stored in the app's UserDefaults on your device. The optional "share score" button opens the iOS share sheet with a short text, and you decide where to send it. Deleting the app removes all of its data.
+
+**Türkçe:** Kafa Tabu'nun iPhone sürümü yukarıdaki kurallarla aynı şekilde çalışır: kişisel veri toplamaz, internete hiç bağlanmaz, reklam, analiz ya da üçüncü taraf SDK içermez. Hareket sensörlerini (Core Motion) yalnızca "doğru" ve "pas" eğme hareketlerini algılamak için okur; bu veriler bellekte işlenir, asla saklanmaz ya da gönderilmez. Oyun ayarları ve tanıtım ekranı bilgisi cihazındaki UserDefaults alanında tutulur. İsteğe bağlı "skoru paylaş" düğmesi iOS paylaşma penceresini kısa bir metinle açar; metnin nereye gideceğine sen karar verirsin. Uygulamayı sildiğinde tüm verileri de silinir.
